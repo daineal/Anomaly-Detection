@@ -1,0 +1,1 @@
+Anomaly Detection of csv data, using Redis and just Python
